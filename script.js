@@ -438,7 +438,93 @@ const messages = {
     ],
     bundle: [
 
-	"🔥💦 Don’t you just love the thought of me crawling on my knees just to please you? 😈👅 I’d look up at you with those innocent eyes while being your dirty slut at the same time… 💋🍑",
+		"I'm just teasing you here, but you should know that the real fun starts only after you message me, so what do you say about that? 🤭🤭",
+    "What would you do if I told you that we should go someplace where I can dress like this? Are you going to make me ask twice? 😏",
+    "Do you like to be teased, or you came here to see the real content? I want to have some fun with you, think you could handle that? 😈😈",
+    "I was thinking of a roleplaying sexting session, but I don't have any new ideas. Do you think you could be creative for me? What would you want me to be this time? 😏",
+    "Who would have thought I'd look so good on camera? Just imagine actually being there with me. I love cuddles by the way, do you? 🥰",
+    "Since you read this message, why not take the time and message me? We could have some proper fun, you know? 🙈",
+    "How about movies night with me? Imagine the both of us under a blanket with some snacks, think we would finish the movie? Be honest 😂",
+    "Imagine we go out for a date night and after you drive me home I tell you to come with me upstairs, what would your response be? 🤭",
+    "These OF girls only care about tips, am I genuinely the only one who cares about establishing a genuine connection? 😭",
+    "Surprise surpriseeeeee, guess who came back with some nice vibesssss? Please tell me you're not busy, I have big plans for us hehe 🤭",
+    "Someone told me I look like a porn star and I still can't tell which one, maybe you could help me? I'm out of options 😂",
+    "Nobody ever compliments my smile, so do I really need to show my body all the time in order to get a nice compliment? 😭",
+    "Why does everyone on here think that I have a high body count? Is it because I look like this? Is that a good, or a bad thing? 🙄",
+    "When will you give this pretty girl some flowerssssss? Don't make me ask, a true gentleman always brings flowers 😭",
+    "I wanted to be a model at one point, but I just gave up on it, I don't really know why. Think I would fit the role though? 🤭",
+    "Mirror mirror on the wall, who's the fairest of them all? I bet this cute girl is even prettier than Snow White herself, wouldn't you agree? 🤭",
+    "I should make a game for youu, every time I make you blush you owe me a cute selfie, but don't worry, I'll try to match the cuteness 🤭",
+    "Have you heard that some OF models do giveaways? Just imagine, my favorite subscriber gets to do a video with me, what do you think about that? 😅",
+    "Someone told me that in order to be wifey material you need to cook, clean, suck, and shut the fuck up, is that true? 🤣",
+    "Who would have thought that I can look both naughty and innocent at the same time? You just need to pick a side hehe 🙈",
+    "Sometimes the best things are better to be shown than told, and I think that is what we should do 🤭 Let me know what you think and of course, your honest opinion on it 😁",
+    "All the bundles on here are about porn and being horny, but nobody is talking about lifestyle and all day casual things 😩 How about I do the start of that and be the first to actually do it, what do you think?",
+    "How about we stop with the sex and horny bundles and I get to show you something from my day to day life 😋 Maybe you like my kind of vibe better than my body and we can get to know each other a little bit better 😜",
+    "A bird whispered to my ear that you were thinking about me and I couldn't sleep, so I might just show you how I look right now, maybe you like my sleepy mood 😅",
+    "When I was little I wanted to be an astronaut 😅 Don't worry, I still have my head in the clouds sometimes, you just need to see for yourself 🤭🤭",
+	"My panties got soaked all day cause I am such a cumslut when it comes to naughtiness...👉👈 and now I am just laying here, head on my pillow, my back arched, hand down my panties🤤🤤",
+
+"💦 You pull me onto your lap, your hands gripping my hips as you grind me against your hard cock 🍆 . My panties are soaked, and I can feel you teasing me, rubbing against me as I moan 😩",
+
+"Let me just tell you a little bit about what you can expect from it, we'll have times when we'll be wild🤪 and crazy😎, times when we'll be calm😙 and nice😄, times when we'll be angry😡 and upset🤬, times when we'll be full of love and sweetness🥰, times when we'll be horny🥵🥵",
+
+"What are you waiting for?🥵🥵🥵🥵 All I want is for you to be in my bed right now🥵🥵🥵 ! I want to feel your kisses on my body and make me feel like the most loved woman in the world 😱! I want you to start slowly from my neck and go slowly down my breasts! and suck on my nipples! 😈🥵😘😍🥰",
+
+"I’m going to get naked, touch myself so slow, so deep, so messy, and make you watch without moving a muscle 🥵",
+
+"💋 You wake me up by sliding your hand between my thighs, your fingers teasing my wet pussy before I’m even fully awake 😈 . I moan softly, rolling onto my back as your fingers slip inside me 🥵🥵🥵🥵",
+
+"🍑 I’m bent over the desk, my skirt hiked up as you stand behind me, your cock pressing against my ass 😈. You tease me, rubbing the tip against my wet pussy, making me gasp as I grip the edge of the desk 😈😈😈",
+
+"What do you think of a sloppy floppy with a twist? 😌💦💦 I know you'd love that, every man does😋😝 Then you've come to the right place, I'm here to satisfy all your needs 😍😍😍",
+
+"HEY 😈😈😈😈 I knew you couldn’t focus on your workout when I walked in wearing those tiny shorts and a tight sports bra, my tits practically spilling out 😈😈😈😈 You came up behind me while I was stretching, your hands gripping my waist, pressing your hard cock against my ass 😈🥵",
+
+"I need you right now! 🙈😋🥰I want you to stick your head between my legs and start licking my clit! 🔞🔞I want you to do it all night long! until my body starts shaking and I start moaning softly! 😋😋",
+
+"You press me up against the mirror, my reflection staring back at me as you slide my panties down 🍑. I watch your hands move over my body, your fingers grazing my nipples, teasing me until they harden 🍒",
+
+"Can you picture it?😈 Me pulling you close, kissing you until we both can’t breathe 😘💋, my hands exploring every inch of you 😏. The more I touch, the more you beg for more 😏. I want to make sure you’re trembling before I even let you speak 💋",
+
+"My tight pussy is getting wet only when makes contact with my finger👆, I keep imagining how good will you be taking care of it and gets me so excited😱🥵🥵",
+
+"I can’t stop touching myself tonight… it’s like my body is begging for you without even asking 🥵 I slid into bed wearing nothing but a silky little robe, and when I closed my eyes, I imagined your hands pulling it open slowly 😈😈😈",
+
+"Panties soaked since morning, just from thinking of you pinning me down 😍 Hand between my thighs, back arched, moaning into the pillow 🤤 I'm all yours 🥵💦💦",
+
+"You know that feeling when you wear something just for yourself, but secretly hope someone notices? 😏 Today, I put on my favorite dress, the one that hugs my body just right, the one that makes me feel… dangerous 😈🤤",
+
+"How about I lay down on my belly, while you come from behind, get on top of me, and just slide it in slowly? 💦",
+
+"Picture me on your lap, grinding slow, your hands touching my hips 😈 My wet pussy sliding over your hard cock, teasing till we both moan 😈 Who cums first? 😏😈😈😈",
+
+"I love teasing you until you can’t take it anymore 😈👅💦 Would you let me ride your cock slowly while looking you in the eyes? 💋🔥",
+
+"I want you in my bed NOW 🥵 Start at my neck, kiss down to my tits, suck my nipples hard till I scream 😍 Then flip me over and fill me up, please please please 🥵🥵🥵🥵🥵💦💦💦💦",
+
+"Mmmm I want you to wake me with your fingers sliding into my wet pussy before my eyes open 🥵🥵🥵 I moan, roll over, legs spread… fuck me awake NOWWWWWWWW PLEASE 🥵🥵🥵",
+
+"A bird whispered to my ear that you were thinking about me and I couldn't sleep, so I might just show you how I look right now, maybe you like my sleepy mood😇😜",
+
+"You won’t believe what happened to me today, I was just minding my own business home, and you have no idea what I just started to do , but enough words for that, I should show you better 😍😍",
+
+"Sometimes the best things are better to be shown than told, and I think that is what we should do 🤭 Let me know what you think and of course, your honest opinion on it 😁",
+
+"All the bundles on here are about porn and being horny, but nobody is talking about lifestyle and all day casual things 😩 How about I do the start of that and be the first to actually do it, what do you think?",
+
+"How about we stop with the sex and horny bundles and I get to show you something from my day to day life 😋 Maybe you like my kind of vibe better than my body and we can get to know each other a little bit better 😜",
+
+"A bird whispered to my ear that you were thinking about me and I couldn't sleep, so I might just show you how I look right now, maybe you like my sleepy mood 😅",
+
+"Do you want to have some fun, or do you actually want to get to know me better? 😅 I love making nice memories, not just endlessly sext, you know? 😜",
+
+"Current mood: wanna show you the real me, not the “content” me ❤️ Scared you’ll like her too much? 😅",
+
+"I’m about to make the world’s laziest brunch, think cereal in a coffee mug level 😆 Slide in and guess what I’m eating, I’ll send proof if you’re right 😉",
+
+"I’m trying to pick an outfit for a random coffee run and can’t decide 😩 Help me choose and I’ll show you the winner (and maybe the loser too) 🤭",
+"🔥💦 Don’t you just love the thought of me crawling on my knees just to please you? 😈👅 I’d look up at you with those innocent eyes while being your dirty slut at the same time… 💋🍑",
   "I can already imagine your hands all over my body 😍💦 pinning me down and making me beg for more 👅😈 come take what’s yours, daddy 😏🍒🔥",
   "Would you like to see me slowly undress for you? 🙈💃 I’ll make it so hot that your cock won’t stop throbbing 💦😈 come and get this private show 🔥👅",
   "My pussy is throbbing just thinking of you 😩💦 I want to open my legs wide and let you taste every drop of me 👅🔥 don’t keep me waiting 😈💋",
@@ -1051,6 +1137,7 @@ function copyMessage(category) {
         navigator.clipboard.writeText(lastMessage); // Copy to clipboard silently
     }
 }
+
 
 
 
