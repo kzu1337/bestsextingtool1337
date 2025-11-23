@@ -464,6 +464,26 @@ const messages = {
     "A bird whispered to my ear that you were thinking about me and I couldn't sleep, so I might just show you how I look right now, maybe you like my sleepy mood 😅",
     "When I was little I wanted to be an astronaut 😅 Don't worry, I still have my head in the clouds sometimes, you just need to see for yourself 🤭🤭",
 	"My panties got soaked all day cause I am such a cumslut when it comes to naughtiness...👉👈 and now I am just laying here, head on my pillow, my back arched, hand down my panties🤤🤤",
+		"I was gonna go to sleep early tonight but then I thought about you and suddenly Im wide awake and feeling naughty 😏 You gonna keep me company or what?",
+    "Quick question if I sent you a voice note moaning your name right now would you listen to it with headphones on at work? Be honest 🤭",
+    "I just took the cutest shower pics but Im not sure if theyre too spicy for the feed should I risk it and send them straight to you instead? 🙈",
+    "Imagine this its 2 am Im in your hoodie nothing underneath and I text you doors unlocked how fast are you pulling up? 😈",
+    "Everyone keeps asking if Im a good girl or a bad girl. Spoiler Im amazing at both 🥰 Which one do you want to meet first?",
+    "I have this tiny skirt on and I cant decide if I should wear panties with it or forget them 🤫 help me choose?",
+    "Im really really good at keeping secrets but Im terrible at keeping my clothes on when someone tells me Im pretty 🙃 weird right?",
+    "They say breakfast is the most important meal of the day but have you ever had me for breakfast? I come with whipped cream 😋",
+    "I just changed my sheets to the soft silky ones now I need someone to mess them up with me 😏 Applications are open",
+    "I look innocent in my profile pic but wait till you see the video I just shot on my knees looking up at the camera 😇 still think Im innocent?",
+    "Im cold bored and my vibrator just died 🪫 This feels like a you problem now Fix it for me? 🤭",
+    "Tell me your biggest turn on and Ill tell you if Ive already done it while thinking about you were watching 😳",
+    "I was a good girl all day but good girls get boring. Time to misbehave 👀 Want to watch?",
+    "If I fall asleep on call with you tonight promise youll stay on the line and listen to me breathe? Its kinda my favorite kind of dirty 😅",
+    "Just painted my toes bright red now I need someone to tell me how pretty theyd look wrapped around oops almost spoiled the surprise 😈",
+    "I keep daydreaming about you bending me over the kitchen counter. Weird because I dont even like cooking 🤔",
+    "Im wearing the tiniest thong right now and it has your name on it literally I wrote it with lipstick because Im extra like that 🙈",
+    "I have a confession every time you like my post I touch myself 🥵 So thank you for keeping me busy lately",
+    "Send me a 🍒 and Ill reply with something that will make you cancel your plans for tonight. Deal?",
+    "I just took a mirror selfie completely naked but with emojis covering the good parts want the uncensored version or are you gonna make me beg you to ask for it? 😏",
 
 "💦 You pull me onto your lap, your hands gripping my hips as you grind me against your hard cock 🍆 . My panties are soaked, and I can feel you teasing me, rubbing against me as I moan 😩",
 
@@ -1137,6 +1157,7 @@ function copyMessage(category) {
         navigator.clipboard.writeText(lastMessage); // Copy to clipboard silently
     }
 }
+
 
 
 
