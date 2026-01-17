@@ -1080,6 +1080,7 @@ const messages = {
     ],
 	vrajeli: [
 
+	"I just want to be honest with you. It’s been a really long time since you bought anything from me, since summer actually. We talk a lot, but I never really feel like my time or effort is appreciated. You never unlock anything, tip, or even get a small bundle once in a while. At the same time, you come to me to complain about other models, and I feel like you spend money on them and then come to me when they stop replying. I don’t want to be that person. I’m not someone’s backup or last option. I’ve always been nice to you and supportive, but it hasn’t really gone both ways. I’m also going through a hard period right now, and just talking isn’t enough for me anymore. If you want us to keep talking, I need to feel valued too. Otherwise, it’s better we talk again when you feel ready to actually do something for me, not just talk 💋",	
 	"I am seriously wondering what are you doing on here. I see I can't have a conversation with you, you are 30 years old but I feel like I'm talking to a bot, honestly now. You only know 3 words in your vocabulary, anything else you can impress me? I see you don't pay, you don't talk, why are you on here then?",	
 	"And it's not just about the money, but after all I'm on onlyfans for a purpose, which is to make money, right? I have expenses, rent, like anyone... And like any woman, I want a financially stable man, even if others won't admit it, but at the end of the day that's what all women want. And besides, how can I be sure that you really like me, and want me the way I am? You could be a crazy person who wants to see me in person and hurt me (I'm just saying as an example, I don't mean that you would really do that), but in the end you never can tell, right? That's why a man who would really support me here and buy my content, talk to me every day, make me laugh, make me feel good, make me feel loved, spoil me from time to time out of the blue without me having to ask for anything... then of course I trust that man because I know he would want something with me since he is so involved. I mean what man would be involved, financially support me and still want to hurt me? I mean it's not logical 😂😂",	
 	"Noooo I'm not ignoring you I’m so sorry but I can’t do the videocall right now 😩 literally my friend just showed up at my place out of nowhere and she’s like cryingg over some guy and I don't know I couldn’t just be like ok bye I have to go be hot on camera 😭😭 I swear I didn’t plan this omg she’s just sitting on my couch being dramatic and I’m like half dressed and trying to calm her down while texting you like ?? this is chaos 😭 can we do it later tonight? I really wanna see you 🥺 promise I’ll make it up to you and be extra cute 💋 I am really sorry sorry again babe I hate when real life gets in the way of me being sexy for you 🙏",	
@@ -1157,6 +1158,7 @@ function copyMessage(category) {
         navigator.clipboard.writeText(lastMessage); // Copy to clipboard silently
     }
 }
+
 
 
 
