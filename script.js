@@ -438,6 +438,36 @@ const messages = {
     ],
     bundle: [
 
+		"Hey I want you to slide that thick cock so deep into my wet pussy, stretching me open until I’m shaking and moaning your name with every single thrust 😈❤️",
+"Fuck babe… I need you to grab my hips and fuck me hard from behind, pounding so deep my whole body moves with you while I push back like I can’t get enough 💦😩",
+"Oh god… I want you to push your cock into my mouth, holding my head while you slide all the way down my throat until I’m looking up at you with tears in my eyes 🔥🍆",
+"Baby I’m dying for you to spread my legs wide and bury that dick so deep inside my pussy, fucking me slow and hard until I’m dripping down my thighs 😈💦",
+"Hey lover… I need you to flip me over and slide into my tight ass, stretching me open while you go deeper with every stroke until I’m moaning louder ❤️🍑",
+"Fuck I want you to push your thick cock between my tits, fucking them while I squeeze them together for you and look up begging for more 😏💋",
+"Baby I need you to fuck my pussy so good, hitting that perfect spot over and over until my legs are shaking and I’m cumming hard around your cock 🔥😩",
+"Oh fuck… I want you to take my mouth first, then my pussy, then my ass, using every single hole until I’m a complete mess for you 💦😈",
+"Hey handsome… I need you to pin me down and thrust so deep into me, making me feel every inch while I moan your name with each powerful stroke ❤️🍆",
+"Babe I’m aching for you to slide into my soaking pussy and fuck me senseless, filling me up until I’m leaking your cum down my thighs 😩💦",
+"Happy to feel you grab my tits and squeeze them hard while you pound into me from behind, making me yours completely with every deep thrust 🔥🍒",
+"Baby I want you to push your cock into my tight little ass and fuck me slow at first, then harder until I’m pushing back like I need more 😏❤️",
+"Oh god I need you to fuck my mouth deep, then flip me over and take my pussy until I’m screaming your name and can’t think straight 💦😈",
+"Fuck babe… I want you to spread me open and slide that thick dick inside my pussy, fucking me so good I forget everything else 🍆❤️",
+"Hey sexy… I need you to hold my legs up high and thrust deep into my pussy, making me feel every single inch while I moan for you 😩💋",
+"Baby I’m dying for you to fuck my tits first, then push into my mouth, then bury yourself in my pussy until I’m shaking from how full you make me 🔥💦",
+"Oh fuck… I want you to take me from behind and fuck me hard, grabbing my hips while I cum all over your cock again and again 😈❤️",
+"Babe I need you to slide into my ass and fuck me deep, stretching me so good while I moan your name with every single thrust 🍆😩",
+"Hey lover… I want you to fuck my wet pussy until I’m dripping, then pull out and cum all over my tits while I look up at you 💦🍑",
+"Baby I’m aching for you to fuck me in every way… start with my mouth, then my pussy, then my ass until I’m completely yours 😈❤️",
+"Fuck I want you to push your cock into my mouth until I’m drooling, then flip me over and pound my pussy until my legs won’t stop shaking 🔥💦",
+"Oh god… I need you to fuck me from behind while you reach around and play with my clit, making me cum so hard I can’t breathe 😩😈",
+"Baby I want you to slide your thick dick between my tits and fuck them slow, then push into my mouth while I taste myself on you ❤️🍆",
+"Hey handsome… I need you to bury yourself deep in my ass and fuck me until I’m pushing back, moaning louder with every thrust 💦🍑",
+"Fuck babe… I want you to spread my legs and thrust into my pussy so deep I feel it in my stomach, making me cum over and over 🔥❤️",
+"Baby I’m dying for you to take my mouth first, fucking it until I gag, then slide into my tight pussy and fuck me senseless 😏💋",
+"Oh fuck… I need you to grab my ass and pound into me hard, making my whole body shake while I moan your name like a desperate girl 😩💦",
+"Hey lover… I want you to push your cock into my pussy and fuck me missionary, looking into my eyes while you go deeper and deeper 😈❤️",
+"Babe I want you to fuck my ass slow and deep, then speed up until I’m gripping the sheets and begging for you to fill me up 🍆💦",
+"Baby I’m so ready for you to use every hole tonight… mouth, pussy, ass, fucking me until I’m a shaking, dripping mess for you 😈❤️",
 		"I'm just teasing you here, but you should know that the real fun starts only after you message me, so what do you say about that? 🤭🤭",
     "What would you do if I told you that we should go someplace where I can dress like this? Are you going to make me ask twice? 😏",
     "Do you like to be teased, or you came here to see the real content? I want to have some fun with you, think you could handle that? 😈😈",
@@ -1159,6 +1189,7 @@ function copyMessage(category) {
         navigator.clipboard.writeText(lastMessage); // Copy to clipboard silently
     }
 }
+
 
 
 
