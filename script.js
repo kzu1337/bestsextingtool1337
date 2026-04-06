@@ -47,7 +47,7 @@ dickrate: false
 // Messages for each category
 const messages = {
     teasing: [
-
+		
 	"I will massage your manhood while you fingerfuck my both holes and I moan for you making my pussy wet and ready to taste your sweet cock 🥵",
 	"Kiss and bite my neck while you passionately kiss me making me even wetter... I want you to soak my panties and make me jump in your cock to feel your throbbing deep inside me 😈",	
 	"You wanna touch me, don’t you? 😏 But I love watching you squirm while you wait. I’m in nothing but my panties, and I can see how hard you’re getting just thinking about sliding them off. Maybe if you’re a good boy, I’ll let you 😉🍑🥵",
@@ -93,7 +93,7 @@ const messages = {
     blowjob: [
 	    
 	"I pull backwards and watch your rock hard dick bounce in front of my eyes 🤩🤩 Mmmm... I looooove it sooo much baby 🤤😋",     
-        "I look you straight in the eyes and then I start to suck your head slowly, running my tongue over you as you push into my mouth!!! Do you like that baby??? 😈😈😈",
+    "I look you straight in the eyes and then I start to suck your head slowly, running my tongue over you as you push into my mouth!!! Do you like that baby??? 😈😈😈",
 	"Imagine my lips wrapped around your cock, going up and down on it till my chin hits your balls and my face is entirely covered in your precum and my saliva 🤤🤤🤤",    
 	"I tease you, licking around your head, tasting every inch before slowly sucking you in, inch by inch, while keeping my eyes on yours. I love seeing the way you react, baby. Does that make you want more? 😏🔥",
 	"I've got crazy techniques, my tongue not only will play with the tip of your cock 🥵🥵 nooo honey... It will also play with your mind, I will you fall in love with my mouth and tongue 🥵🥵🥵🥵",
@@ -175,6 +175,36 @@ const messages = {
     ],
     pussy: [
 
+	"Mmm my pussy is already so fucking wet and throbbing hard for your cock right now 😩",
+"Come here and slide your thick cock slowly into me... I wanna feel every inch stretching my tight pussy",
+"Oh fuuuuuuuuck yes push it all the way deep inside my pussy... fill me up completely",
+"Now start fucking me harder... thrust into my wet pussy with those long strong strokes I love 🥵",
+"Turn me over right now... I need you to take me from behind and fuck my pussy deep 😈",
+"Doggy style feels so damn good... pound my pussy hard from behind make it take every thrust",
+"Harder slam your cock into me... I love feeling your hips slapping against my ass while you destroy my pussy",
+"My pussy is gripping your cock so tightly every time you push deep inside me like this 💦",
+"Flip me back onto my back now... spread my legs wide open",
+"Fuck me in missionary... look into my eyes while you drive your cock so deep into my wet pussy",
+"I love how deep you go in this position... keep pounding my pussy harder and faster fuuuuuck",
+"Get on your back it’s my turn... I wanna ride your cock and feel it fill my pussy completely",
+"I’m lowering myself onto you... my pussy is slowly swallowing every thick inch of your cock 😩",
+"Watch me ride you... my pussy sliding up and down your cock taking you deeper each time",
+"Fuck me from below while I bounce on your cock... make my pussy feel every powerful thrust",
+"Now push me against the wall... lift my legs and fuck my pussy while holding me up 🔥",
+"Hold me tight and slam your cock into my pussy... don’t be gentle just fuck me hard standing",
+"My legs are shaking so much while you pound my pussy deep in this position fuuuuuuuuck",
+"Turn me on my side now... spoon me from behind and slide your cock back into my pussy",
+"Fuck me deep from the side... this angle feels incredible your cock hits every spot in my pussy 💦",
+"Keep thrusting into me... my pussy is getting even wetter with every long stroke inside me",
+"I’m getting so close... don’t stop keep fucking my pussy just like this 😈",
+"Pound me faster and harder... my pussy is clenching around your cock I’m almost there",
+"Fuck me through my orgasm... don’t slow down keep driving your cock deep into my pussy",
+"Tell me where you want to cum... I need to feel your hot load so badly",
+"You can cum deep inside my pussy and fill me up or pull out and cover my tits and belly",
+"I want your cum anywhere you want... on my pussy on my body or deep inside me 💦🥵",
+"Fuck me right through your orgasm... give me every drop while you’re still buried in my pussy🥵🥵🥵",
+"Mmm yes cum for me... I’m ready to feel you explode all over or inside my pussy 😩",
+"That was so fucking intense... my pussy is still pulsing and dripping from how hard you fucked me🥵🥵",	
 	"I want you to slide your cock deep inside my pussy, slow at first… then fuck me so hard I can’t even speak your name 💦💦💦 I need to feel every inch of your hard cock deep inside me.. Please babe fuck it harder 🥵🥵🥵🥵",
 	"My pussy’s so wet for you right now… I need you to fill me up and fuck me like you own me 😈😈😈 Take my pussy and do everything you want... Fuck it, spit it, lick it, destroy it 😈😈😈😈 THIS HOLE IS JUST YOURS 🥵🥵🥵💦💦💦💦💦",
 	"Spread my legs, pin me down, and take this tight little pussy until I’m moaning nonstop and begging for your cum 😈😈😈 I need you to paint this pink pussy in white with your yummy delicious sticky juicy cum... Oh fuck that's hot as fuck baby 🥵🥵🥵💦💦💦💦 Imagine so much cum all over my pussy then I take it with my fingers and I put it right deep inside my slippery wet cunt 🥵🥵🥵🥵",
