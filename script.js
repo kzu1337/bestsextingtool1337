@@ -12,7 +12,7 @@ joi: 0,
 dominant: 0,
 cuckold: 0,
 balls: 0,
-massive: 0,
+newbundle: 0,
 bundle: 0,
 support: 0,
 ivyvip: 0,
@@ -35,7 +35,7 @@ joi: false,
 dominant: false,
 cuckold: false,
 balls: false,
-massive: false,
+newbundle: false,
 bundle: false,
 support: false,
 ivyvip: false,
@@ -578,13 +578,20 @@ const messages = {
 	"I’ll crush you under my will, pushing your boundaries and making sure you feel every intense moment. Every touch, every command will be designed to push you to your limits, making you embrace the pain and pleasure until you’re entirely lost in the experience I create 😈",
 	"You want me to make you feel every bit of the intensity? I’ll make sure you experience every sting and every thrill, commanding you to take it all. I’ll push you to your breaking point, savoring the way you react to each sharp touch and demand. Your pain and pleasure will be my pleasure 😈💋"
     ],
-    massive: [
-	
-        "Baby, when you kneel before me, I want you to look up and see your Mommy towering over you. My fingers will trace your chin, lifting your face as you worship my curves. You’re my good little boy, aren’t you? 😈💋 I want to hear you beg for my touch, but you’ll have to earn every inch of me",
-        "I’ll have you on your knees, your hands tied behind your back, as I slowly strip out of my lingerie. You’ll watch every move, knowing you can’t touch until I give you permission. Your cock will throb for me, desperate to be inside, but I’ll make you wait... only when I’m satisfied will I let you taste what you crave so badly 🔥",
-        "Once I’m ready, I’ll pull you onto the bed, pinning you down with my body. My hand will wrap around your throat, not too tight, but just enough to remind you who’s in control. You’ll feel my breath on your neck as I whisper how you’re mine to use, my plaything for the night. Are you ready to serve me, baby? 😏💦",
-	"I’ll ride you, nice and slow, teasing you with every movement of my hips. You’ll want to thrust deeper, but I’ll hold you back, controlling the pace. You’ll watch as I play with my tits, moaning your name, telling you how good it feels to be in charge, making you squirm beneath me as you beg for release 😈",
-	"And when I finally let you cum, I’ll keep you inside me, milking every last drop. I’ll run my nails down your chest, leaving marks to remind you of who owns you. You’ll collapse, exhausted and spent, but I’m not done with you yet, baby. You’re going to please your Mommy until I say you’ve had enough 😈💋"
+    newbundle: [
+	"Mmm look at me... I'm wearing these tight black pantyhose just for you. My pussy is already soaked and waiting for you to destroy me 😈🥵",
+        "Get on your knees and rub your face against my pantyhose covered pussy... I want to feel you sniffing and licking me through the nylon so you can feel my pussy scent 😈😈",
+        "Tear a hole in my pantyhose right now... rip it open and shove your cock deep into my wet pussy while the nylon is still hugging my thighs 🥵🥵",
+        "Fuuuuuuuck yes... destroy my pantyhose while you pound my pussy hard. Rip them more and fuck me rough until the nylon is torn to shreds and your cum is dripping down my legs 🥵💦",
+        "Mmm come here right now... I’m wearing this sexy outfit and my pussy is already dripping underneath 🥵😩",
+        "Get on your knees and push my clothes up... I want your mouth on my pussy immediately 😈😈🥵",
+        "Rip my panties to the side and bury your face between my legs... lick my pussy like you need it 😈",
+        "Fuuuuuuuck yes... push your tongue deep inside me while you hold my thighs open",
+        "I want you to tear my clothes out of the way and shove your thick cock into my wet pussy right now 💦",
+        "Don’t be gentle... grab my hips hard and start pounding my pussy deep and fast",
+        "Look at me while you fuck me... I want to see how bad you want this pussy 😈😈😩",
+        "Harder... slam your cock into me and stretch my pussy until I beg for more 😈"
+        
     ],
     bundle: [
 
@@ -1339,20 +1346,3 @@ function copyMessage(category) {
         navigator.clipboard.writeText(lastMessage); // Copy to clipboard silently
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
