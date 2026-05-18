@@ -579,6 +579,61 @@ const messages = {
 	"You want me to make you feel every bit of the intensity? I’ll make sure you experience every sting and every thrill, commanding you to take it all. I’ll push you to your breaking point, savoring the way you react to each sharp touch and demand. Your pain and pleasure will be my pleasure 😈💋"
     ],
     newbundle: [
+		"I keep imagining your thick cock rubbing slowly against my soaked folds, teasing my pussy for hours before finally pushing deep and stretching my tight pussy wide open with every inch 😈💦",
+
+"Picture your tongue sliding between my thighs, licking my swollen clit then pushing deep inside my wet pussy, tasting how soaked I am for you 👅💦",
+
+"I need you to push my legs back far, expose my cunt completely and pound me hard and deep so I can feel every inch of your thick cock destroying my tightness 😈❤️",
+
+"My tight pussy aches so badly to wrap around your cock, squeezing every vein while you fuck me harder, faster and deeper until I lose control completely 🥵💦",
+
+"I crave the moment you tease my soaked entrance with the head of your cock for a long time before slamming every inch inside my dripping cunt without warning 😏😈",
+
+"I want you to take me from behind, gripping my hips and pulling me back onto your thick cock, thrusting as deep as possible while you fuck my pussy rougher and rougher 💦🥵",
+
+"Let me drop to my knees, wrap my warm mouth around your throbbing cock and take you deep down my throat, sucking and licking every single inch 👅😈",
+
+"I need to feel that hard cock pounding my wet pussy without mercy, stretching my walls and hitting the deepest spots with long powerful strokes ❤️💦",
+
+"Imagine me getting on top, lowering my tight cunt onto your cock slowly then riding you harder and faster so my pussy grips and squeezes you intensely 😏🥵",
+
+"I want you to spread my legs wide open, slide your thick cock deep inside my cunt and fuck me with slow, steady and powerful thrusts that make me burn 😈❤️",
+
+"My pussy gets incredibly wet thinking about you pinning me down and destroying my tight hole with that thick cock, thrusting harder with every movement 💦😏",
+
+"I fantasize about your tongue exploring every inch of my soaked pussy before you replace it with your hard cock and fuck me deep and rough 👅🥵",
+
+"I need those long deep strokes where you pull almost all the way out then slam back inside my dripping cunt, filling me completely over and over 😈💦",
+
+"Let me wrap my soft lips around your cock, suck you deep and wet, then climb on top and ride you hard until you fill me with cum ❤️😏",
+
+"Push me down onto the bed, lift my legs high and pound my tight cunt with deep rough strokes until my pussy grips you tightly 💦❤️",
+
+"I crave the sensation of your hard cock sliding in and out of my soaked pussy, getting rougher, faster and deeper with every single thrust 😏🥵",
+
+"I want you to rub your thick cock against my swollen clit for a long time, teasing me until I’m desperate, then bury yourself balls deep and fuck me hard 😈💦",
+
+"Imagine gripping my ass with both hands while you slam into my tight wet pussy from behind, thrusting deep and fast exactly how you want ❤️😏",
+
+"I need to feel every inch of that thick cock stretching my pussy walls and filling me so full that I feel you pulsing inside me 😈🥵",
+
+"Let me worship your cock with my mouth first, licking and sucking every inch before I ride you hard and make you explode deep inside me 👅💦",
+
+"I want you to fuck my dripping cunt in every position, taking me however you desire until my body is completely spent and satisfied ❤️😏",
+
+"My pussy is ready to be used hard. I need you to slide in deep and pound me fast and rough, filling me without mercy 🥵💦",
+
+"I fantasize about you driving your thick cock into my tight cunt from behind with strong dominant strokes that make me shake 😈❤️",
+
+"I want to feel you getting even harder inside me as you fuck my pussy with long, powerful and relentless strokes 😏🥵",
+
+"Come stretch this tight dripping cunt with your thick cock, thrust deep and keep fucking me harder until you empty every drop inside me 💦😈",
+
+"I crave the feeling of your cock rubbing my inner walls while you fuck me deeper and rougher, owning my body with every thrust ❤️🥵",
+
+"Let me grind my soaked pussy along your hard cock, teasing you before I take every inch and ride you intensely until you explode 😏💦",
+
+"I need you to fuck my soaked cunt relentlessly, filling me to the limit and using me hard and deep exactly how you want 😈❤️",
 	"I keep imagining every single detail of your thick cock slowly rubbing against my wet folds, teasing my entrance for a long time before you finally push forward and stretch my tight pussy wide open with one deep thrust. I need to feel you filling me completely 😩💦",
 
 "I want you to grab my hips with both hands, pull me back hard and drive every inch of that rock hard cock deep into my dripping cunt, fucking me with powerful strokes that make my whole body shake with pleasure 🔥🍆",
