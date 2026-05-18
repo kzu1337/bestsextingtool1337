@@ -579,6 +579,65 @@ const messages = {
 	"You want me to make you feel every bit of the intensity? I’ll make sure you experience every sting and every thrill, commanding you to take it all. I’ll push you to your breaking point, savoring the way you react to each sharp touch and demand. Your pain and pleasure will be my pleasure 😈💋"
     ],
     newbundle: [
+	"I keep imagining every single detail of your thick cock slowly rubbing against my wet folds, teasing my entrance for a long time before you finally push forward and stretch my tight pussy wide open with one deep thrust. I need to feel you filling me completely 😩💦",
+
+"I want you to grab my hips with both hands, pull me back hard and drive every inch of that rock hard cock deep into my dripping cunt, fucking me with powerful strokes that make my whole body shake with pleasure 🔥🍆",
+
+"Picture your tongue moving slowly between my thighs, licking and sucking on my swollen clit before sliding deep inside my wet pussy, tasting how soaked I am just for you while I tremble under your mouth 👅😏",
+
+"I need you to push my legs far back, expose my dripping cunt completely and pound me hard and deep so I can feel your heavy balls slapping against me with every single rough thrust 🍑💦",
+
+"My tight pussy is pulsing and aching so badly to wrap around your thick cock, squeezing every vein while you move faster, harder and deeper inside me until I lose all control 😈🥵",
+
+"I crave that exact moment when you rub the head of your hard cock up and down my soaked entrance, teasing me mercilessly before you slam every inch inside my cunt without any warning 🔥",
+
+"I want you to take me from behind, gripping my hips tightly and pulling me back onto your cock with every thrust, going as deep as possible while you fuck my dripping pussy harder and harder 🍑😩",
+
+"Let me drop to my knees, look up at you and slowly wrap my warm wet mouth around your throbbing cock, taking you deeper and deeper down my throat while I suck and lick every inch 😏🍆",
+
+"I need to feel that hard cock pounding my wet pussy without mercy, stretching my walls, hitting the deepest spots and filling me over and over again with long powerful strokes 💦",
+
+"Imagine me getting on top, lowering my tight cunt onto your cock inch by inch, then riding you faster and harder so my pussy grips and squeezes you completely while my body moves with pure lust 🥵❤️‍🔥",
+
+"I want you to spread my legs as wide as they go, slide your thick cock deep inside my cunt and fuck me with slow, steady, powerful thrusts that make me feel every single inch 😈",
+
+"My pussy gets incredibly wet just thinking about you pinning me down, spreading my thighs and destroying my tight hole with that thick cock, thrusting harder with every second 🍆💦",
+
+"I fantasize about your tongue exploring every inch of my soaked pussy, licking my clit then pushing inside me before you replace it with your hard cock and fuck me senseless 👅🔥",
+
+"I need those long deep strokes where you pull almost all the way out and then slam back inside my dripping cunt, filling me completely and making my body burn with desire 😩🍑",
+
+"Let me wrap my soft lips around your cock, suck you deep and wet while my tongue works every inch, then let me climb on top and ride you until you fill me with cum 💦😏",
+
+"I want to feel your cock throbbing and pulsing deep inside my pussy as you thrust harder and faster, owning every part of my body with pure raw intensity 😈",
+
+"Push me down onto the bed, lift my legs high onto your shoulders and pound my tight cunt with deep, rough strokes until my pussy grips you like it never wants to let go 🥵",
+
+"I crave the sensation of your hard cock sliding in and out of my soaked pussy, getting rougher, faster and deeper with every thrust until we both can’t take it anymore 🔥🍆",
+
+"I want you to rub your thick cock against my swollen clit for a long time, teasing me until I’m desperate, then bury yourself balls deep and fuck my cunt without holding back 😏💦",
+
+"Imagine gripping my ass cheeks hard with both hands while you slam into my tight wet pussy from behind, thrusting deep and fast, using me exactly how you want 🍑😩",
+
+"I need to feel every inch of that thick cock stretching my pussy walls, filling me so full that I can feel you pulsing and throbbing inside me with every movement 😈",
+
+"Let me worship your cock with my mouth first, licking and sucking your balls then taking you deep down my throat before I ride you hard and make you explode 💦🍆",
+
+"I want you to fuck my dripping cunt in every position possible, taking me however you desire until my legs are shaking and my body is completely satisfied 🔥",
+
+"My pussy is ready and waiting to be used hard. I need you to slide in deep and pound me fast and rough, filling me completely without any mercy 💦😏",
+
+"I fantasize about you pulling my hair just right while driving your thick cock into my tight cunt from behind, fucking me with strong, dominant strokes 😈🍑",
+
+"I want to feel you getting even harder inside me as you fuck my pussy with long, powerful, relentless strokes that hit every sensitive spot perfectly 🥵",
+
+"Come stretch this tight dripping cunt with your thick cock, thrust deep and keep fucking me harder until you finally empty every drop inside me 😩💦",
+
+"I crave the feeling of your cock rubbing against my inner walls while you fuck me deeper and rougher, owning my body completely with every thrust 🔥",
+
+"Let me grind my soaked pussy along your hard cock, teasing you for a while before I take every single inch and ride you intensely until you explode deep inside me 🍆😏",
+
+"I need you to fuck my soaked cunt relentlessly, filling me to the limit, using me hard and deep exactly how you want until we are both completely exhausted 😈❤️‍🔥",	
 	"Mmm look at me... I'm wearing these tight black pantyhose just for you. My pussy is already soaked and waiting for you to destroy me 😈🥵",
         "Get on your knees and rub your face against my pantyhose covered pussy... I want to feel you sniffing and licking me through the nylon so you can feel my pussy scent 😈😈",
         "Tear a hole in my pantyhose right now... rip it open and shove your cock deep into my wet pussy while the nylon is still hugging my thighs 🥵🥵",
